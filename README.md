@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on intelligent diagnostic systems that will be supported operation maintenance in industry
+- 👯 I’m looking to collaborate on machnie learning models by using the TensorFlow and Scikit-Learn libraries
+- 📫 How to reach me: j.rzeczkowski@pollub.pl
+
+
 <!--
 **jrzeczkowski/jrzeczkowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
